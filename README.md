@@ -1,5 +1,8 @@
-Site:
-https://github.com/Gimeitarou/Autogui-101
+How to use:
+>python Autogui-101.py
 
 Demo video:
 https://x.com/300kyen/status/1867874449443496404
+
+Site:
+https://github.com/Gimeitarou/Autogui-101
