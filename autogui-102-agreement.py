@@ -1,7 +1,15 @@
+from sys import exit
 import pyautogui as pau
 import pyperclip
+import tkinter as tk
+import tkinter.messagebox as messagebox
 import time
 import os
+
+tk.Tk().withdraw()
+TorF = messagebox.askokcancel('<Consensus>', 'This code will automatically download a picture, and set the picture as your wallpaper.\nDo you accept that?')
+if TorF == False:
+    exit()
 
 DownloadCmd = 'powershell Invoke-WebRequest -Uri "https://www.python.jp/pages/python_logo2.png" -OutFile "~\Downloads\TheHopeOne.png"'
 
