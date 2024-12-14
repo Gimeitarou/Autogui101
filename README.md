@@ -1,4 +1,4 @@
-usage:<br>
+Usage:<br>
 >python 'Autogui-101-Agreement.py'
 
 Demo video:
