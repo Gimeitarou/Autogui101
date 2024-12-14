@@ -13,7 +13,7 @@ pau.hotkey('win','r')
 pau.hotkey('ctrl','v')
 pau.press('enter')
 time.sleep(1)
-pau.hotkey('win','down')
+pau.press('enter')
 time.sleep(2)
 
 #open the pic
@@ -25,7 +25,7 @@ time.sleep(1)
 
 #set it as wallpaper
 pau.hotkey('ctrl','b')
-time.sleep(0.5)
+time.sleep(1)
 
 #close the pic
 pau.hotkey('alt','f4')
