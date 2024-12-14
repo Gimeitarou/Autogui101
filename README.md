@@ -1,4 +1,4 @@
-For Education use only.
+For Educational use only
 
 GitHub:<br>
 <https://github.com/Gimeitarou/Autogui-101>
