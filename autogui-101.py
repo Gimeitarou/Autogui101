@@ -4,7 +4,6 @@ import time
 import os
 
 DownloadCmd = 'powershell Invoke-WebRequest -Uri "https://www.python.jp/pages/python_logo2.png" -OutFile "~\Downloads\TheHopeOne.png"'
-
 OpenCmd = 'C:/Users/%username%/Downloads/TheHopeOne.png'
 
 #download a pic on DL-dir
