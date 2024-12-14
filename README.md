@@ -1,9 +1,9 @@
 For Education use only.
 
-GitHub:
+GitHub:<br>
 <https://github.com/Gimeitarou/Autogui-101>
 
-Demo video:
+Demo video:<br>
 <https://x.com/300kyen/status/1867874449443496404>
 
 Usage:<br>
