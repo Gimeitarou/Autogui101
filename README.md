@@ -1,5 +1,5 @@
 How to use:
->python Autogui-101.py
+>>python Autogui-101.py
 
 Demo video:
 https://x.com/300kyen/status/1867874449443496404
