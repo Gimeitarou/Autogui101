@@ -24,7 +24,7 @@ time.sleep(2)
 
 #set it as wallpaper
 pau.hotkey('ctrl','b')
-time.sleep(1)
+time.sleep(2)
 
 #close the pic
 pau.hotkey('alt','f4')
