@@ -1,4 +1,6 @@
-For Educational use only
+First draft for Pro Micro using PyautoGUI (on Windows)
+
+For Educational use only.
 
 GitHub:<br>
 <https://github.com/Gimeitarou/Autogui-101>
