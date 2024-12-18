@@ -10,7 +10,7 @@ Demo video:<br>
 <br>
 <br>
 Usage:<br>
->python 'Autogui-101-Agreement.py'
+<python 'Autogui-101-Agreement.py'>
 <br>
 Notice:<br>
 This code is written with PyautoGUI, so you can stop all the actions anytime at will by moving your mouse cursor to the upper left of your screen.
