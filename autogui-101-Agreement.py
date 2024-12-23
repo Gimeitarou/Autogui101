@@ -37,4 +37,4 @@ time.sleep(2)
 #close the pic
 pau.hotkey('alt','f4')
 
-os.remove('Downloads/Lake.png')
+os.remove('Downloads/Lake.jpg')
