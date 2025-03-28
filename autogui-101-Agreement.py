@@ -11,7 +11,7 @@ TorF = messagebox.askokcancel('<Agreement>', 'This code will automatically downl
 if TorF == False:
     exit()
 
-DownloadCmd = 'powershell Invoke-WebRequest -Uri gahag.net/img/201608/26s/gahag-0119154009-1.jpg -OutFile Downloads/Lake.jpg'
+DownloadCmd = 'powershell Invoke-WebRequest -Uri the-public-domain-review.imgix.net/collections/campi-phlegraei/campi-phlegraei-9.jpg -OutFile Downloads/Lake.jpg'
 OpenCmd = 'C:/Users/%username%/Downloads/Lake.jpg'
 
 #download a pic on DL-dir
@@ -20,7 +20,7 @@ pau.hotkey('win','r')
 time.sleep(1)
 pau.hotkey('ctrl','v')
 pau.press('enter')
-time.sleep(4)
+time.sleep(10)
 
 #open the pic
 pyperclip.copy(OpenCmd)
@@ -28,7 +28,7 @@ pau.hotkey('win','r')
 time.sleep(1)
 pau.hotkey('ctrl','v')
 pau.press('enter')
-time.sleep(2)
+time.sleep(2.5)
 
 #set it as wallpaper
 pau.hotkey('ctrl','b')
