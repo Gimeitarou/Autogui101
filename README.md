@@ -1,11 +1,10 @@
 Wallpaper Changing with PyautoGUI.<br>
 <br>
-GitHub<br>
-<https://github.com/Gimeitarou/Autogui-101>
-<br>
-Demo video<br>
-<https://x.com/300kyen/status/1867874449443496404>
-<br>
+
+
+https://github.com/user-attachments/assets/7e514d4b-707e-4b60-a665-499e6e962edf
+
+
 <br>
 Usage:<br>
 python 'Autogui-101-Agreement.py'<br>
